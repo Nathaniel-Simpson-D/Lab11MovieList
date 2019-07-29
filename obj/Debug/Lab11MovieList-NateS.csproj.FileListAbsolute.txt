@@ -1,0 +1,7 @@
+C:\Clabs\Lab11MovieList-NateS\bin\Debug\Lab11MovieList-NateS.exe.config
+C:\Clabs\Lab11MovieList-NateS\bin\Debug\Lab11MovieList-NateS.exe
+C:\Clabs\Lab11MovieList-NateS\bin\Debug\Lab11MovieList-NateS.pdb
+C:\Clabs\Lab11MovieList-NateS\obj\Debug\Lab11MovieList-NateS.csprojAssemblyReference.cache
+C:\Clabs\Lab11MovieList-NateS\obj\Debug\Lab11MovieList-NateS.csproj.CoreCompileInputs.cache
+C:\Clabs\Lab11MovieList-NateS\obj\Debug\Lab11MovieList-NateS.exe
+C:\Clabs\Lab11MovieList-NateS\obj\Debug\Lab11MovieList-NateS.pdb
